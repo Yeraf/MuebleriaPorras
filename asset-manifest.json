@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MuebleriaPorras/static/css/main.d8a93563.css",
+    "main.js": "/MuebleriaPorras/static/js/main.552ed991.js",
+    "static/js/787.09e93c42.chunk.js": "/MuebleriaPorras/static/js/787.09e93c42.chunk.js",
+    "index.html": "/MuebleriaPorras/index.html",
+    "main.d8a93563.css.map": "/MuebleriaPorras/static/css/main.d8a93563.css.map",
+    "main.552ed991.js.map": "/MuebleriaPorras/static/js/main.552ed991.js.map",
+    "787.09e93c42.chunk.js.map": "/MuebleriaPorras/static/js/787.09e93c42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a93563.css",
+    "static/js/main.552ed991.js"
+  ]
+}
