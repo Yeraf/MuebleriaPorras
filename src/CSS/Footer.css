@@ -1,0 +1,9 @@
+.div-footer {
+    background-color: black;
+    text-align: center;
+    color: azure;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
