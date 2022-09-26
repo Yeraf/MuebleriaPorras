@@ -12,7 +12,7 @@ function RoutesApps() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" exact element={<Home />}></Route>
+        <Route exact path="/" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/history" element={<History />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
